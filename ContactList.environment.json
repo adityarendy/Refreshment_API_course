@@ -1,0 +1,34 @@
+{
+	"id": "733df53c-da8d-4d52-a393-4332832333a6",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-04-15T12:14:21.616Z",
+	"_postman_exported_using": "Postman/12.6.2"
+}
